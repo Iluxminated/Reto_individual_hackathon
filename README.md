@@ -27,3 +27,6 @@ que necesitaba para llevar a cabo lo que me pedian, separando cada parte en su f
 
 Una vez tenia la parte de la programacion hecha y me habia asegurado de que la app funcionaba como debia, la subí al repositiorio con git bash.
 
+<h1>Instalacion:</h1>
+
+Se puede bajar la carpeta del proyecto y compilarlo desde Android Studio o te puedes bajar el archivo .apk directo al telefono e instalartelo.
