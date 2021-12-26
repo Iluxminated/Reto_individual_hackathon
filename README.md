@@ -10,20 +10,20 @@ introducido.
 
 <h1>Capturas de pantalla</h1>
 
-[!Funcionamiento normal](func_normal.JPG) /
-[!Introduciendo un espacio](espacio.JPG) /
-[!Con un color invalido](color_invalido.JPG)
+[Funcionamiento normal](func_normal.JPG) /
+[Introduciendo un espacio](espacio.JPG) /
+[Con un color invalido](color_invalido.JPG)
 
 <h1>Desarrollo:</h1>
 
 Primero visualizé el diseño basico y puse cada elemento en su sitio:
 
-[!Diseño basico](diseno.JPG)
+[Diseño basico](diseno.JPG)
 
 Después (siempre empiezo haciendo el diseño de la aplicacion, y una vez lo tengo acabado me centro en la programacion) , me hice un pequeño esquema mental de las funciones 
 que necesitaba para llevar a cabo lo que me pedian, separando cada parte en su funcion:
 
-[!Esquema visual representativo](esquema.jpg)
+[Esquema visual representativo](esquema.jpg)
 
 Una vez tenia la parte de la programacion hecha y me habia asegurado de que la app funcionaba como debia, la subí al repositiorio con git bash.
 
