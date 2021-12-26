@@ -23,7 +23,7 @@ Primero visualizé el diseño basico y puse cada elemento en su sitio:
 Después (siempre empiezo haciendo el diseño de la aplicacion, y una vez lo tengo acabado me centro en la programacion) , me hice un pequeño esquema mental de las funciones 
 que necesitaba para llevar a cabo lo que me pedian, separando cada parte en su funcion:
 
-[Esquema visual representativo](esquema.jpg)
+[Esquema visual representativo](esquema_correcto.jpg)
 
 Una vez tenia la parte de la programacion hecha y me habia asegurado de que la app funcionaba como debia, la subí al repositiorio con git bash.
 
